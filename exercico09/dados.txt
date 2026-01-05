@@ -1,0 +1,3 @@
+nome, nota_porugues, nota_matematica, nota_geografia, nota_historia, nota_fisica
+jp,10,10,10,10,10
+raquel,10,10,10,10,10
