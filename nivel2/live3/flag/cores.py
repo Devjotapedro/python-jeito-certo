@@ -1,0 +1,5 @@
+#constantes cores bandeira
+VERDE = (0,148,64)
+AMARELO = (255,203,0)
+AZUL = (48,38,129)
+BRANCO = (255,255,255)
