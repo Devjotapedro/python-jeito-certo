@@ -1,0 +1,8 @@
+achar bibliotecas -> pypi
+pip -> gerenciador de pacotes do python
+pip ou pip3 -> evocar pacotes
+listar pacotes instalados -> pip freeze
+instalar nova biblioteca -> pip install nome-biblioteca
+desinstalar -> pip unistall nome-biblioteca
+criar arquivo de requisitos de um projeto -> pip freeze > requeriments.txt
+instalar todos os pacotes requisitados -> pip install -r requeriments.txt
